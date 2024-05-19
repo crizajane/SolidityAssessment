@@ -1,4 +1,6 @@
-# Project Title
+# Solidity Project
+
+## Overview
 
 The Solidity program code that I made for the assessment in Metacrafters is a simple token contract that shows how to use the Solidity programming language. 
 
